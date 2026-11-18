@@ -2,17 +2,23 @@
 
 ### LSB-Based Data Hiding | BMP Image Processing | Bit-Level Programming
 
-\<div align="center">
+# 🖼️ IMAGE STEGANOGRAPHY IN C
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5A8&center=true&vCenter=true&width=850&lines=Hide+Secret+Messages+Inside+Images;LSB+Based+Steganography+Using+C;Binary+Data+%7C+Pixel+Manipulation;BMP+Image+Processing;Encoding+%26+Decoding+Engine](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=22\&pause=1000\&color=00E5A8\&center=true\&vCenter=true\&width=850\&lines=Hide+Secret+Messages+Inside+Images;LSB+Based+Steganography+Using+C;Binary+Data+%7C+Pixel+Manipulation;BMP+Image+Processing;Encoding+%26+Decoding+Engine)" alt="Animated Image Steganography heading"/>
+<div align="center">
 
-\<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E5A8&center=true&vCenter=true&width=850&lines=IMAGE+STEGANOGRAPHY+IN+C;HIDE+SECRET+MESSAGES+INSIDE+IMAGES;LSB+BASED+DATA+ENCODING;BMP+IMAGE+PROCESSING;ENCODING+%26+DECODING" alt="Animated Image Steganography" />
 
-\<img src="[https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge\&logo=c)"/> \<img src="[https://img.shields.io/badge/Technique-LSB%20Steganography-00A98F?style=for-the-badge](https://img.shields.io/badge/Technique-LSB%20Steganography-00A98F?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Image%20Format-BMP-3949AB?style=for-the-badge](https://img.shields.io/badge/Image%20Format-BMP-3949AB?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Concept-Bit%20Manipulation-orange?style=for-the-badge](https://img.shields.io/badge/Concept-Bit%20Manipulation-orange?style=for-the-badge)"/>
+<br/><br/>
 
-**PURUSHOTHAMA K | EMBEDDED SOFTWARE ENGINEER ASPIRANT**
+<img src="https://img.shields.io/badge/PROGRAMMING-C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/TECHNIQUE-LSB%20ENCODING-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FORMAT-BMP-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-LOW%20LEVEL%20PROGRAMMING-orange?style=for-the-badge"/>
 
-\</div>
+### PURUSHOTHAMA K
+**Embedded C | Bit Manipulation | Linux Programming**
+
+</div>
 
 ---
 
