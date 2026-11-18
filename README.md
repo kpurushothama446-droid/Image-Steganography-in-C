@@ -1,9 +1,5 @@
 # 🖼️ IMAGE STEGANOGRAPHY IN C
 
-### LSB-Based Data Hiding | BMP Image Processing | Bit-Level Programming
-
-# 🖼️ IMAGE STEGANOGRAPHY IN C
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E5A8&center=true&vCenter=true&width=850&lines=IMAGE+STEGANOGRAPHY+IN+C;HIDE+SECRET+MESSAGES+INSIDE+IMAGES;LSB+BASED+DATA+ENCODING;BMP+IMAGE+PROCESSING;ENCODING+%26+DECODING" alt="Animated Image Steganography" />
